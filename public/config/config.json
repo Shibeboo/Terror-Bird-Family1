@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdb58c79cb47f521cd08d912fbe2354632ac1c156",
+  "SCAN_LINK": "https://polygonscan.com/token/0xdb58c79cb47f521cd08d912fbe2354632ac1c156",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Terror Bird Family",
+  "SYMBOL": "TBFNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/terror-bird-family",
+  "SHOW_BACKGROUND": true
+}
